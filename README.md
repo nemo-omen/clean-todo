@@ -1,15 +1,6 @@
-# Elysia with Bun runtime
+# Clean Todo
 
-## Getting Started
-To get started with this template, simply paste this command into your terminal:
-```bash
-bun create elysia ./elysia-example
-```
+A simple todo app organized according to the [Clean Architecture](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/).
 
-## Development
-To start the development server run:
-```bash
-bun run dev
-```
-
-Open http://localhost:3000/ with your browser to see the result.
+## Why?
+Clean architecture and its derivatives, [DDD](), [Hexagon](), [Ports and Adapters](), etc.(?) are kind of challenging, especially for a relative novice like myself. I'm writing this as a way to learn more about the principles of the architecture.
